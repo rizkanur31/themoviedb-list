@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Database Film</string>
+    <string name="popular">Populer</string>
+    <string name="top_rated">Rating teratas</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="now_playing">Sekarang Diputar</string>
+    <string name="summary">Ringkasan</string>
+    <string name="trailers">Trailer</string>
+    <string name="cast">Pemain</string>
+    <string name="review">Ulasan</string>
+    <string name="tittle">Judul Film</string>
+    <string name="setting">Pengaturan</string>
+    <string name="language">id-ID</string>
+
+
+</resources>
